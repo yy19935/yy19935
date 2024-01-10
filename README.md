@@ -22,5 +22,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yy19935&show_icons=true&locale=en" alt="yy19935" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yy19935&" alt="yy19935" /></p>
